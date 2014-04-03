@@ -1,4 +1,4 @@
-local_variable
+local_variable - $global_variable - @instance_variable - @@class_variable
 print puts gets 
 .chomp .length .reverse .upcase .downcase 
 if else elsif
