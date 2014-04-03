@@ -1,0 +1,6 @@
+local_variable
+print puts gets 
+.chomp .length .reverse .upcase .downcase 
+if else elsif
+== != < > <= >=
+&& || !
